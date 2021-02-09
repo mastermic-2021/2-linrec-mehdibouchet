@@ -21,7 +21,7 @@ decodf27(s)= {
 
 
 \\ **********************************************************************************
-\\ Paramètres de l'exercice :                                                       *
+\\  Paramètres de l'exercice :                                                      *
 \\                                                                                  *
 \\    cipher: chiffré du message <clair> à déchiffrer                               *
 \\    n: nombre d'itérations effectué par le LFSR pour chiffrer le message <clair>  *
