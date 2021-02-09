@@ -1,3 +1,5 @@
+\\ Si stack-overflow: Aggrandir à 3 Mo (min) la capacité de la stack : 
+\\    default(parisize, 3M)
 str2ascii(s)=Vec(Vecsmall(s));
 ascii2str(v)=Strchr(v);
 encode(s) = {
